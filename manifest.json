@@ -1,6 +1,6 @@
 {
   "name": "checkout-ui-custom",
-  "vendor": "vtex",
+  "vendor": "batatinha-frita",
   "version": "0.7.2",
   "title": "Checkout Custom",
   "description": "Make possible to customize the checkout layout using a easy to use interface from the admin",
